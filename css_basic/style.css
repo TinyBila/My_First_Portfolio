@@ -1,0 +1,30 @@
+.flexbox-container main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+  overflow-y: auto;
+
+}
+.flexbox-container article {
+  flex: 2;
+
+}
+.flexbox-container aside{
+  flex: 1;
+  
+}
+
+.flexbox-container body {
+  display: flex;
+  flex-direction: column;
+
+}
+.flexbox-container header {
+
+}
+.flexbox-container main {
+
+}
+.flexbox-container footer {
+
+}
